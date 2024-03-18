@@ -1,0 +1,12 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+Cat,83,278,296,202,label.jpg,783,480
+Cat,224,24,209,154,label.jpg,783,480
+Cat,544,258,165,172,label.jpg,783,480
+Plant,365,293,72,187,label.jpg,783,480
+Plant,643,163,140,87,label.jpg,783,480
+Box,666,252,105,88,label.jpg,783,480
+staries,412,241,135,170,label.jpg,783,480
+staries,410,10,163,119,label.jpg,783,480
+boll,502,419,45,35,label.jpg,783,480
+house,458,134,174,109,label.jpg,783,480
+house,209,167,206,118,label.jpg,783,480
